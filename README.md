@@ -1,5 +1,6 @@
 # 用Python实现一个年会抽奖小程序
+**用Pygame做的一个抽奖游戏，借鉴了Annual-meeting-lottery项目**
 
 ## 怎么使用
-### 1.将工号和名字存入excel文件，程序会从中解析工号和名字
-### 2.可以直接在window执行已经打包好的exe文件
+### 1.将名字存入excel文件
+### 2.直接终端运行 python *.py文件
